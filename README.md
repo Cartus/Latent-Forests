@@ -82,11 +82,8 @@ python3 eval.py saved_model/cpr --data_dir dataset/cpr
 ```
 
   
-
 Use `--model checkpoint_epoch_100.pt` to specify a model checkpoint file.
 
-
-```
 
 ## Related Repo
 
